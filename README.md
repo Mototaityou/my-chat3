@@ -1,5 +1,5 @@
 # my-chat3
-<img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-Vue.js-364659.svg?logo=vue.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-Typescript-000000.svg?logo=typescript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Firebase-4599DF.svg?logo=firebase&style=for-the-badge"> 
 
 ## About
 
