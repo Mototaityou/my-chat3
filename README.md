@@ -1,4 +1,5 @@
 # my-chat3
+<img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
 
 ## About
 
