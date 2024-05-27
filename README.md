@@ -4,7 +4,7 @@
 # About
 *my-chat3* was developed by Mototaityou, a novice programmer, to gain experience with chat functionality, cloud services, and NoSQL databases. The application was developed using Vue.js, Vuetify, and TypeScript with Firebase Codelab as a reference and deployed on Firebase.
 
-* [my-chat3](https://github.com/Mototaityou/my-chat3) - This HTML link will direct you to the page titled *my-chat3*.
+* [my-chat3](https://mychat-c4f8d.web.app) - This HTML link will direct you to the page titled *my-chat3*.
 
 <img width="549" alt="ChatImage2" src="https://github.com/Mototaityou/reversi/assets/103736269/609135b0-3391-4c9e-b493-7f198cc20997">
 
