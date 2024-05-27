@@ -1,5 +1,7 @@
 # my-chat3
 
+## About
+
 ## Project setup
 ```
 npm install
